@@ -1,0 +1,20 @@
+============================================================
+PULSEBINDING ABILITIES
+============================================================
+
+Each Delta Realm grants Lys a unique metaphysical ability:
+
+| Realm      | Delta Force | Pulsebinding Ability |
+|------------|-------------|----------------------|
+| Ignisca    | Spark       | Ignition Surge       |
+| Fluvion    | Flow        | Phase Drift          |
+| Kynara     | Form        | Shape Echo           |
+| Thalor     | Pulse       | Resonant Burst       |
+| Echomire   | Echo        | Memory Loop          |
+| Veyra      | Veil        | Shadowstep           |
+| Threadwyn  | Thread      | Fatebind             |
+| Pyrrhion   | Flame       | Soulflare            |
+| Verdalis   | Seed        | Bloomshift           |
+
+Abilities are used for traversal, combat, puzzle-solving, and 
+emotional resonance.

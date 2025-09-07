@@ -1,0 +1,16 @@
+============================================================
+POPULATIONS OF DELTARA – CULTURAL IDENTITY
+============================================================
+
+| Population Name | Origin Realm | Core Traditions |
+|-----------------|--------------|------------------|
+| Threadweavers   | Threadwyn    | Fatebinding, Loomsong rituals, Echo weaving  
+| Frayborn        | The Void     | Glyph inversion, Threadcutting, Fray doctrine  
+| Flamebound      | Pyrrhion     | Passion trials, Crucible rites, Soul forging  
+| Echoborn        | Echomire     | Memory harvesting, Reflection rites, Archive keeping  
+| Flowkin         | Fluvion      | Emotional navigation, Drift ceremonies, Tidal bonding  
+| Seedbearers     | Verdalis     | Dream planting, Bloom rites, Regenerative healing  
+| Formwrights     | Kynara       | Structural shaping, Echo architecture, Form trials  
+| Veilwalkers     | Veyra        | Illusion crafting, Shadow rites, Veil passage  
+| Pulsebinders    | Thalor       | Resonance harmonics, Heartline rituals, Pulse communion  
+| Sparkborn       | Ignisca      | Ember forging, Conviction rites, Flame ascension

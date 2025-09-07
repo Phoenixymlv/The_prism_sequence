@@ -1,0 +1,114 @@
+============================================================
+               CODEX ENTRY : The Prism Sequence
+               Echoes of the Spiral – Game Bible
+============================================================
+
+------------------------------------------------------------
+🌌 WORLD OVERVIEW
+------------------------------------------------------------
+Deltara is a metaphysical universe composed of Nine Delta Realms 
+and Four Omega Chambers, bound together by the Spiral—a cosmic 
+structure that governs the cycle of Becoming and Closure.
+
+The player journeys as Lys Vael, an anomaly born of the Chronoquartz, 
+seeking to reunite the Deltas and unlock the Thresholds of the Omegas.
+
+------------------------------------------------------------
+🧬 MAIN CHARACTER
+------------------------------------------------------------
+Lys Vael – The Unwritten Pulse
+- Extracted from the Chronoquartz; has no past or fate-thread.
+- Immune to prophecy, memory, and destiny.
+- Gains abilities through Pulsebinding with each Delta realm.
+
+------------------------------------------------------------
+🔺 PULSEBINDING SYSTEM
+------------------------------------------------------------
+Each Delta Realm grants Lys a unique ability:
+
+| Realm      | Delta Force | Pulsebinding Ability |
+|------------|-------------|----------------------|
+| Ignisca    | Spark       | Ignition Surge       |
+| Fluvion    | Flow        | Phase Drift          |
+| Kynara     | Form        | Shape Echo           |
+| Thalor     | Pulse       | Resonant Burst       |
+| Echomire   | Echo        | Memory Loop          |
+| Veyra      | Veil        | Shadowstep           |
+| Threadwyn  | Thread      | Fatebind             |
+| Pyrrhion   | Flame       | Soulflare            |
+| Verdalis   | Seed        | Bloomshift           |
+
+------------------------------------------------------------
+🧵 NARRATIVE STRUCTURE
+------------------------------------------------------------
+
+Phase I: Gathering of Deltas
+- Travel through Nine Delta Realms.
+- Earn Pulsebindings and confront identity.
+
+Phase II: Loom of Integration
+- Return to Threadwyn to harmonize with the Spiral.
+- Begin perceiving Threshold Phrases.
+
+Phase III: Chambers of Closure
+- Four Omega Chambers test mastery of Pulsebindings.
+
+| Chamber       | Omega Force | Required Pulsebindings | Threshold Phrase |
+|---------------|-------------|-------------------------|------------------|
+| Dissonance    | Ω1 – Silence | Spark, Echo, Veil       | “Nine flames ascend, but only four cast shadows.”  
+| Suspension    | Ω2 – Stillness | Flow, Form, Pulse     | “Through nine shifts of the prism, four echoes remain.”  
+| Revelation    | Ω3 – Truth | Echo, Thread, Flame      | “Reveal the ninth seal with four echoes of truth.”  
+| Return        | Ω4 – Return | All nine                | “The spiral folds when the seed blooms in silence.”  
+
+Phase IV: Spiral Decision
+- Choose to preserve, unravel, or rewrite the Spiral.
+
+------------------------------------------------------------
+🔥🪞 KEY NPC: CAEL SOLARI
+------------------------------------------------------------
+Cael Solari – The Echoborn Flame
+- Hybrid of memory and passion, born in the Ashmirror Rift.
+- Appears in side quest “Ashes Remembered”.
+- Becomes playable in future DLC: THE RIFTWALKER.
+
+------------------------------------------------------------
+🎮 SIDE QUEST: “ASHES REMEMBERED”
+------------------------------------------------------------
+Location: Ashmirror Rift  
+Objective: Help Cael recover the Ashglyph of Remembrance.  
+Mechanics: Recursive memory loop puzzle using Echo and Flame Pulsebindings.  
+Rewards:
+- Echoflame Sigil
+- Fragmented Memory
+- Cael’s Echo (spectral companion)
+
+------------------------------------------------------------
+🎼 SOUNDTRACK CONCEPTS
+------------------------------------------------------------
+
+Main Themes:
+- Echoes of the Spiral – ethereal, cyclical, haunting
+- Pulse of the Chronoquartz – glitchy, crystalline, rhythmic
+
+Realm Themes:
+- Each realm has a distinct sonic identity tied to its Delta force.
+
+Sanctum Themes:
+- Atmospheric, ritualistic, emotionally layered compositions.
+
+------------------------------------------------------------
+🧵 FACTIONS & LORE
+------------------------------------------------------------
+
+Threadweavers:
+- Custodians of fate, dwell in Threadwyn.
+- Maintain the Loom of All and interpret the Spiral.
+
+Frayborn:
+- Rebels who seek to unravel the Spiral and birth a Tenth Realm.
+- Led by Sereth Kaelir – The Unraveler Sovereign.
+- Hidden agenda: activate the Glyph of Absence and perform the Frayborn Ascension.
+
+============================================================
+END OF CODEX ENTRY
+============================================================

@@ -1,0 +1,16 @@
+============================================================
+POPULATIONS OF DELTARA – GAMEPLAY RELEVANCE
+============================================================
+
+| Population Name | Factions | Conflicts | Playable Traditions |
+|-----------------|----------|-----------|----------------------|
+| Threadweavers   | Spiralwalkers | Schism over Frayborn doctrine | Weave fate-links; interpret Threshold Phrases  
+| Frayborn        | Glyphborn | War against Loom | Sever threads; invert Pulsebindings  
+| Flamebound      | Crucible Knights | Purity vs. corruption | Rage boosts; ignite memories  
+| Echoborn        | Mirrorbound | Identity loss | Reconstruct memories; trap enemies  
+| Flowkin         | Mourning Chorus | Rogue currents | Alter terrain; slow time  
+| Seedbearers     | Bloomwardens | Flame conflict | Grow dream allies; heal resonance  
+| Formwrights     | Echo Engineers | Static vs. adaptive form | Reshape terrain; mimic forms  
+| Veilwalkers     | Veilbound | Truth vs. illusion | Stealth zones; reveal hidden paths  
+| Pulsebinders    | Heartweavers | Resonance disruption | Shockwaves; harmonize with NPCs  
+| Sparkborn       | Sparkforged | Elemental dominance | Dash attacks; conviction puzzles

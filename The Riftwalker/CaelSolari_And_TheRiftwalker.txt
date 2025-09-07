@@ -1,0 +1,19 @@
+============================================================
+CAEL SOLARI & THE RIFTWALKER DLC
+============================================================
+
+Cael Solari – The Echoborn Flame  
+- Hybrid of memory and passion  
+- Born in the Ashmirror Rift  
+- Appears in side quest “Ashes Remembered”
+
+Side Quest: Ashes Remembered  
+- Location: Ashmirror Rift  
+- Objective: Recover the Ashglyph of Remembrance  
+- Mechanics: Recursive memory loop puzzle using Echo and Flame  
+- Rewards: Echoflame Sigil, Fragmented Memory, Cael’s Echo
+
+DLC Title: THE RIFTWALKER  
+- Cael becomes playable  
+- Explore the Deep Rift and forbidden glyphs  
+- Confront Sereth Kaelir’s origin and rewrite memory itself
