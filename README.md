@@ -1,1 +1,3 @@
-# The_prism_sequence
+### The_prism_sequence
+
+## *Bloquons tout !*
