@@ -2,7 +2,6 @@
 
 function love.load()
     -- Initialization code here
-    
 end
 
 function love.update(dt)
