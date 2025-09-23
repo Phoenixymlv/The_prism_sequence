@@ -1,3 +1,5 @@
+---@diagnostic disable: undefined-global
+
 local timer = require 'timer'()
 
 describe('hump.timer', function()

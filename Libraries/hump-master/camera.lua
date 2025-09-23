@@ -1,3 +1,5 @@
+---@diagnostic disable: undefined-global
+
 --[[
 Copyright (c) 2010-2015 Matthias Richter
 
